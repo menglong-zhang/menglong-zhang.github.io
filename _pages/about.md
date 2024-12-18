@@ -15,5 +15,6 @@ redirect_from:
 
 You can find my CV here: [Menglong's Curriculum Vitae](../assets/zml_CV.pdf).
 
-[Email](mailto:menglongzhang15@gmail.com): menglongzhang15@gmail.com & zhangml2022@mail.sustech.edu.cn / [Github](https://github.com/SCI-I)
+✉️ [Email](mailto:menglongzhang15@gmail.com): menglongzhang15@gmail.com & zhangml2022@mail.sustech.edu.cn
+:octocat: [Github](https://github.com/SCI-I)
 
