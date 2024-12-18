@@ -11,7 +11,7 @@ redirect_from:
 
 :smile: I'm a third year Master's student from School of Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/).
 
-🚀️ My research interest includes meta-reinforcement learning, world model, machine learning, and representation leaning for RL.
+🚀️ My current work focuses on improving agents' adaptability and generalization in unknown environments by leveraging meta-reinforcement learning to enable fast reasoning and decision-making. I am generally interested in topics related to meta-reinforcement learning, world model, generative models for reinforcement learning. 
 
 You can find my CV here: [Menglong's Curriculum Vitae](../assets/zml_CV.pdf).
 
