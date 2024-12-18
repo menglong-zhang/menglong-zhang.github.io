@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ":wave:About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ![aaai](/images/figureai.png){: style="float: right; width: 210px; margin-left: 5px; margin-bottom: 5px"}
 
-I'm a third year Master's student from School of Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes meta-reinforcement learning, world model, machine learning, and representation leaning for RL.
+:smile: I'm a third year Master's student from School of Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes meta-reinforcement learning, world model, machine learning, and representation leaning for RL.
 
 You can find my CV here: [Menglong's Curriculum Vitae](../assets/zml_CV.pdf).
 
