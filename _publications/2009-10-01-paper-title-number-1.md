@@ -2,6 +2,7 @@
 title: "Learning Task Belief Similarity with Latent Dynamics for Meta-Reinforcement Learning"
 collection: publications
 category: conferences
+permalink:'https://openreview.net/forum?id=5YbuOTUFQ4'
 excerpt: '<img src="/images/SimBelief.png" alt="SimBelief Illustration" style="width: 300px; height: auto;">'
 date: 2024-10-02
 paperurl: 'http://menglong-zhang.github.io/files/ICLR_simbelief__12_18___preprint_.pdf'
