@@ -14,7 +14,6 @@ You can find my CV here: [Menglong's Curriculum Vitae](../assets/zml_CV.pdf).
 [Email](menglongzhang15@gmail.com): menglongzhang15@gmail.com & zhangml2022@mail.sustech.edu.cn
 
 [Github](https://github.com/SCI-I)
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 ![aaai](/images/figureai.png)
 
