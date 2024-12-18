@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![aaai](/images/figureai.png){: style="float: right; width: 210px; margin-left: 8px; margin-bottom: 5px"}
+![aaai](/images/figureai.png){: style="float: right; width: 250px; margin-left: 8px; margin-bottom: 10px"}
 
 :smile: I'm a third year Master's student from School of Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/).
 
