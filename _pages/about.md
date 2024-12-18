@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![aaai](/images/figureai.png){: style="float: right; width: 250px; margin-left: 8px; margin-bottom: 10px"}
+![aaai](/images/figureai.png){: style="float: right; width: 245px; margin-left: 8px; margin-bottom: 8px"}
 
 :smile: I am a third-year Master's student at the School of Engineering, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/), majoring in ​Electronic Science and Technology​ under the supervision of ​Professor [Quanying Liu](https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=2)). My master's research focuses on the study of multi-task representation and rapid adaptation mechanisms based on meta-reinforcement learning. Before this I completed my bachelor's degree in Software Engineering at ​[Henan University](https://www.henu.edu.cn/)​, where I ranked in the top 3.5% in my major .
 
