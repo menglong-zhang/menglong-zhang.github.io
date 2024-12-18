@@ -13,8 +13,9 @@ redirect_from:
 
 🚀️ My current work focuses on improving agents' adaptability and generalization in unknown environments by leveraging meta-reinforcement learning to enable fast reasoning and decision-making. I am generally interested in topics related to meta-reinforcement learning, world model, generative models for reinforcement learning.
 
-You can find my CV here: [Menglong's Curriculum Vitae](../assets/zml_CV.pdf).
+🤝 You can find my CV here: [Menglong's Curriculum Vitae](../assets/zml_CV.pdf).
 
 ✉️ [Email](mailto:menglongzhang15@gmail.com): menglongzhang15@gmail.com & zhangml2022@mail.sustech.edu.cn
-:octocat: [Github](https://github.com/SCI-I)
+
+⭐️ [Github](https://github.com/SCI-I)
 
