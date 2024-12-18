@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![aaai](/images/figureai.png){: .align-right{margin-left: 10px;} width="200px"}
+![aaai](/images/figureai.png){: style="float: right; width: 250px; margin-left: 10px;"}
 I'm a third year Master's student from School of Engineering, [Southern University of Science and Technology](https://www.sustech.edu.cn/). My research interest includes meta-reinforcement learning, world model, machine learning, and representation leaning for RL.
 
 You can find my CV here: [Menglong's Curriculum Vitae](../assets/zml_CV.pdf).
