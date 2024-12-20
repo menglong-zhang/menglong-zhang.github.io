@@ -17,5 +17,5 @@ redirect_from:
 
 ✉️ [Email](mailto:menglongzhang15@gmail.com): menglongzhang15@gmail.com & zhangml2022@mail.sustech.edu.cn
 
-⭐️ [Github](https://github.com/SCI-I)  /  [WeChat]
+⭐️ [Github](https://github.com/SCI-I)  /  [WeChat](../assets/WeChat.png)
 
