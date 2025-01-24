@@ -5,7 +5,7 @@ category: conferences
 permalink: /redirect-to-external
 redirect_to:
   - https://openreview.net/forum?id=5YbuOTUFQ4
-excerpt: '**Menglong zhang**, Fuyuan Qian, Quanying Liu<br/><br/>Under review as a conference paper at ICLR 2025 (rating: 8,6,6,6) (12.69%)<br/><br/><img src="/images/SimBelief.png" alt="SimBelief Illustration" style="width: 500px; height: auto;">'
+excerpt: '**Menglong zhang**, Fuyuan Qian, Quanying Liu<br/><br/>In Proceedings of The International Conference on Learning Representations (ICLR), 2025<br/><br/><img src="/images/SimBelief.png" alt="SimBelief Illustration" style="width: 500px; height: auto;">'
 date: 2024-10-02
 paperurl: 'http://menglong-zhang.github.io/files/ICLR_simbelief__12_18___preprint_.pdf'
 ---
